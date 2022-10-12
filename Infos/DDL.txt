@@ -1,0 +1,10 @@
+"BD", "Modelar as tabelas", 150, 0,
+"Debug", "Modelar as tabelas", 20, 0,
+"Cadastro", "Modelar as tabelas", 10, 0,
+"Login", "Modelar as tabelas", 50, 0,
+"Deploy", "Modelar as tabelas", 25, 0,
+"Testes", "Modelar as tabelas", 80, 0,
+"Bug", "Modelar as tabelas", 75, 0,
+"Logout", "Modelar as tabelas", 5, 0,
+"Internacionalização", "Modelar as tabelas", 15, 0,
+"Prototipo", "Prototipar as telas do app", 20, 0
